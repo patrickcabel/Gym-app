@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gym-app/static/css/main.31d6cfe0.css",
+    "main.js": "/Gym-app/static/js/main.a3574b26.js",
+    "static/media/HeroBanner.png": "/Gym-app/static/media/HeroBanner.e40a6f41563655bf608a.png",
+    "static/media/lift.png": "/Gym-app/static/media/lift.605bcd1caa9310dfa426.png",
+    "static/media/gym.png": "/Gym-app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Gym-app/index.html",
+    "main.a3574b26.js.map": "/Gym-app/static/js/main.a3574b26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a3574b26.js"
+  ]
+}
